@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVC-Sample</string>
+    <string name="main_request_data">请求数据</string>
+</resources>
